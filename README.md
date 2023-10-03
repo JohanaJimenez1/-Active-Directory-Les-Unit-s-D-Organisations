@@ -1,6 +1,12 @@
 # -Active-Directory-Les-Unit-s-D-Organisations
 Active Directory : Les Unités D'Organisations ou Unité Organisationnelle
 
+-Création de Domine Wilders.lan 
+
+-Il faut configurer le reseaux en interne de les deux VM
+-Entre dans la machine client2 avec le domaine wilders.lan
+-Pour la création d'utilisateurs clic sur Outils et clic en utilisateurs et ordinateurs Directory une fois là clic droit sur wilders.lan puis clic en nouveauet Unité organisation
+
 ![DOMAINE1](https://github.com/JohanaJimenez1/-Active-Directory-Les-Unit-s-D-Organisations/assets/137881601/078048c1-61fc-4d0c-af82-adf3dc1de713)
 
 ![domaine2](https://github.com/JohanaJimenez1/-Active-Directory-Les-Unit-s-D-Organisations/assets/137881601/a3d652e9-eb69-4f65-84f1-6b49ff61138d)
